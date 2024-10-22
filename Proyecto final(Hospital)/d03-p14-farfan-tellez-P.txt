@@ -1,0 +1,8 @@
+ID:1
+paciente --> Juan Carlos
+fecha de ingreso --> 2019-10-18
+edad --> 21
+antecedentes medicos --> Hepatitits
+tipo de analisis -->Sangre
+
+

@@ -1,0 +1,3 @@
+Cedula:1
+medico --> Juan Hernandez
+cargo que desempeña --> Ginecologo
